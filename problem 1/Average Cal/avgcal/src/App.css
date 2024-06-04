@@ -1,7 +1,6 @@
 .App {
   text-align: center;
 }
-
 .App-header {
   background-color: #2a3750;
   min-height: 100vh;
@@ -12,12 +11,10 @@
   font-size: calc(10px + 2vmin);
   color: #68bebd;
 }
-
 .App-header h1 {
   margin-bottom: 20px;
   color: #68bebd;
 }
-
 button {
   margin-left: 10px;
   border: none;
@@ -27,11 +24,9 @@ button {
   color: white;
   cursor: pointer;
 }
-
 button:hover {
   background-color: #45a049;
 }
-
 select {
   margin-left: 10px;
   border-radius: 5px;
