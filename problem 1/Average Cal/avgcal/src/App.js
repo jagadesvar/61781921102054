@@ -5,7 +5,7 @@ function App() {
   const [numbers, setNumbers] = useState([]);
   const [avg, setAvg] = useState(0);
   const [loading, setLoading] = useState(false);
-  const [typeId, setTypeId] = useState('primes'); // default to primes
+  const [typeId, setTypeId] = useState('primes'); 
 
   const fetchData = () => {
     setLoading(true);
